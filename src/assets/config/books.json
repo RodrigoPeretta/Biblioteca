@@ -1,0 +1,466 @@
+{
+  "Books": [{
+    "title": "Desenvolvimento de jogos para android",
+    "url": "",
+    "description": "Explore sua imaginação com o framework cocos2d",
+    "logo": "",
+    "Category":"Android"
+  }, {
+    "title": "Google Android",
+    "url": "",
+    "description": "Crie aplicações para celulares",
+    "logo": "",
+    "Category":"Android"
+  }, {
+    "title": "Adoção Transformaçao Agile",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"Agile"
+  }, {
+    "title": "Agile desenvolvimento de software.",
+    "url": "",
+    "description": "Entregas frequentes e foco no valor de negócio",
+    "logo": "",
+    "Category":"Agile"
+  }, {
+    "title": "Scrum Gestão ágil para projetos de sucesso",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"Agile"
+  }, {
+    "title": "Extreme programming",
+    "url": "",
+    "description": "Práticas para o dia a dia no desenvolvimento ágil",
+    "logo": "",
+    "Category":"Agile"
+  }, {
+    "title": "Scrum 360",
+    "url": "",
+    "description": "Um guia completo e prático de agilidade",
+    "logo": "",
+    "Category":"Agile"
+  }, {
+    "title": "SCRUM",
+    "url": "",
+    "description": "Study SBOK - Guide 2013",
+    "logo": "",
+    "Category":"Agile"
+  },{
+    "title": "Armazenando dados com Redis",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"BANCO DE DADOS"
+  },{
+    "title": "MongoDB",
+    "url": "",
+    "description": "Construa novas aplicações nom novas tecnologias",
+    "logo": "",
+    "Category":"BANCO DE DADOS"
+  },{
+    "title": "SQL",
+    "url": "",
+    "description": "Uma abordagem para banco de dados Oracle",
+    "logo": "",
+    "Category":"BANCO DE DADOS"
+  },{
+    "title": "Guia do mestre programador",
+    "url": "",
+    "description": "Pensando como pirata evoluindo como jedi",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "O programador apaixonado",
+    "url": "",
+    "description": "Contruindo uma carreira notavem em desenvolvimento",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "Orientação a Objetos e SOLID para Ninjas",
+    "url": "",
+    "description": "Projetando classes",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "REST",
+    "url": "",
+    "description": "Construa APIS inteligentes de maneira simples",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "SOA Aplicado",
+    "url": "",
+    "description": "Integrando com WebServices",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "Microsoft .NET",
+    "url": "",
+    "description": "Architecting Applications for the Enterprise ( 2nd edition )",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "Thoughtworks",
+    "url": "",
+    "description": "Antologia Brasil Histórias de aprendizado e inovação",
+    "logo": "",
+    "Category":"CAPACITAÇÃO PROFISSIONAL"
+  },{
+    "title": "DevOps",
+    "url": "",
+    "description": "Caixa de ferramentas devops - um guia para construção e arquitetura de sistemas modernos",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "DevOps na pratica",
+    "url": "",
+    "description": "Entrega de software confiável e automatizada",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "Containers com docker do desenvolvimento a produção",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "Controlando versoes com git e github",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "Mastering Sublime",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "Mastering Sublime",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"FERRAMENTAS"
+  },{
+    "title": "Desenvolvimento de jogos com HTML 5 com Canvas e javascript",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"HTML 5"
+  },{
+    "title": "HTML5 e CSS3",
+    "url": "",
+    "description": "Dominie a Web do futuro",
+    "logo": "",
+    "Category":"HTML 5"
+  },{
+    "title": "Jogos em HTML 5",
+    "url": "",
+    "description": "Explore o mobile e fisica",
+    "logo": "",
+    "Category":"HTML 5"
+  },{
+    "title": "Web Design responsivo",
+    "url": "",
+    "description": "páginas adaptáveis para todos os dispositivos",
+    "logo": "",
+    "Category":"HTML 5"
+  },{
+    "title": "Java 7 SE",
+    "url": "",
+    "description": "O guia para sua certificação Oracle certified assiciate",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "Java 8",
+    "url": "",
+    "description": "Lambdas, Streams e os novos recursos da linguagem",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "Introdução a arquitetura e design de software",
+    "url": "",
+    "description": "Uma visão sobre a plataforma java",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "SPRING",
+    "url": "",
+    "description": "MVC Domine o principal framework WEB JAVA",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "Test Driven Development",
+    "url": "",
+    "description": "Teste e design no mundo real",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "JavaEE 7",
+    "url": "",
+    "description": "JSF PrimeFaces e CDI",
+    "logo": "",
+    "Category":"JAVA"
+  },{
+    "title": "Aplicações web real time com node",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NODEJS"
+  },{
+    "title": "Construindo APIs REST com NodeJS",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NODEJS"
+  },{
+    "title": "Canivete suico do desenvolvedor node",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NODEJS"
+  },{
+    "title": "MEAN stack",
+    "url": "",
+    "description": "Javascript para aplicações web com MongoDb Express AngularJs e Node",
+    "logo": "",
+    "Category":"NODEJS"
+  },{
+    "title": "Meteor",
+    "url": "",
+    "description": "Criando aplicações Web real time com JavaScript",
+    "logo": "",
+    "Category":"NODEJS"
+  },{
+    "title": "Desenvolvimento web com php e myssql",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "OCaml",
+    "url": "",
+    "description": "Programação funcional na prática",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "Python",
+    "url": "",
+    "description": "Escreva seus primeiros programas",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "C e Visual Studio",
+    "url": "",
+    "description": "Desenvolvimento de aplicações desktop",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "Programando em GO",
+    "url": "",
+    "description": "Crie aplicações com a linguagem do Google",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "Ruby",
+    "url": "",
+    "description": "Aprenda a programar na linguagem mais divertida",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "Google Android",
+    "url": "",
+    "description": "Crie aplicações para celulares",
+    "logo": "",
+    "Category":"LINGUAGENS"
+  },{
+    "title": "WebMobile",
+    "url": "",
+    "description": "Programe para um mundo de muitos dospositivos",
+    "logo": "",
+    "Category":"MOBILE"
+  },{
+    "title": "Programe para iPhone e iPad",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"MOBILE"
+  },{
+    "title": "Jogos em HTML 5",
+    "url": "",
+    "description": "Explore o mobile e fisica",
+    "logo": "",
+    "Category":"MOBILE"
+  },{
+    "title": "Google Android",
+    "url": "",
+    "description": "Crie aplicações para celulares",
+    "logo": "",
+    "Category":"MOBILE"
+  },{
+    "title": "SWIFT",
+    "url": "",
+    "description": "Programe para iPhone e iPad",
+    "logo": "",
+    "Category":"MOBILE"
+  },{
+    "title": "Adaptative Code via C# Agile with design patterns and SOLID principles",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":".NET"
+  },{
+    "title": "Desenvolvimento web com ASP.NET MVC",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":".NET"
+  },{
+    "title": "Microsoft .NET",
+    "url": "",
+    "description": "Architecting Applications for the Enterprise ( 2nd edition )",
+    "logo": "",
+    "Category":".NET"
+  },{
+    "title": "Writing High Performance .NET Code",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":".NET"
+  },{
+    "title": "Busines Model Canvas",
+    "url": "",
+    "description": "O Analista de modelos de negócio",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Cases de Sucesso",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Direto ao ponto",
+    "url": "",
+    "description": "Criando produtos de forma enxuta3",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Tour da Bel",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Guia da Startups",
+    "url": "",
+    "description": "Como startups e empresas estabelecidas podem criar produtos web rentáveis",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Gestão de projetos 2.0",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Gestão estratégica por KPIS",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Gestão de produtos de software",
+    "url": "",
+    "description": "Como aumentar as chances de sucesso do seu software",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Histórias de usuário 3.0",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Kanban 10 Passos",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "SEO - Prático",
+    "url": "",
+    "description": "Seu site na primeira página das buscas",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Um guia do conhecimento em Gerenciamento de projetos",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO"
+  },{
+    "title": "Microsoft Kinect",
+    "url": "",
+    "description": "Crie aplicações interativas",
+    "logo": "",
+    "Category":"OUTROS"
+  },{
+    "title": "Testes automatizados de software",
+    "url": "",
+    "description": "Um guia prático",
+    "logo": "",
+    "Category":"OUTROS"
+  },{
+    "title": "DevOps for dummies",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"OUTROS"
+  },{
+    "title": "Introdução e boas práticas de UX Design",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"OUTROS"
+  },{
+    "title": "Somos todos canalhas",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"OUTROS"
+  },{
+    "title": "Cucumber e rspec",
+    "url": "",
+    "description": "Construa aplicações Ruby e rails com testes e especificações",
+    "logo": "",
+    "Category":"RUBY"
+  },{
+    "title": "RSpec",
+    "url": "",
+    "description": "Crie especificações executáveis em Ruby",
+    "logo": "",
+    "Category":"RUBY"
+  },{
+    "title": "Ruby",
+    "url": "",
+    "description": "Aprenda a programar na linguagem mais divertida",
+    "logo": "",
+    "Category":"RUBY"
+  },{
+    "title": "Ruby on Rails",
+    "url": "",
+    "description": "Coloque sua aplicação web nos trilhos",
+    "logo": "",
+    "Category":"RUBY"
+  },{
+    "title": "Introdução a computação da lógica aos jogos com Ruby",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"RUBY"
+  }
+  ]
+}
