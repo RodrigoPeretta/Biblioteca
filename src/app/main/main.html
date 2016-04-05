@@ -15,13 +15,11 @@
         </div>
     </section>
 
-    <div class="category" ng-repeat="(key, value) in main.categories ">
-      <div class="category title">
-        <h2>{{value.Category}}</h2>
-        <hr>
-      </div>
+    <div class="category" ng-repeat="Categories in main.awesomeThings">
+      {{Categories.category}}
+      <hr>
       <div class="techs" layout-align="center">
-        <md-card ng-repeat="awesomeThing in vm.awesomeThing">
+        <md-card ng-repeat="awesomeThing in main.awesomeThings">
           <md-card-content>
             <img class="pull-right" ng-src="assets/images/{{ awesomeThing.logo }}" alt="{{ awesomeThing.title }}">
             <h3 class="md-title">{{ awesomeThing.title }}</h3>
