@@ -10,24 +10,34 @@
     var vm = this;
 
     vm.selectedItem  = null;
-    $scope.searchText    = '';
+    vm.searchText    = '';
 
-    getBooks();
+    setBooks();
 
     $scope.$watch('searchText',function(newVal){
-      if(newVal != ''){
+      if(newVal != undefined && newVal != ''){
         vm.awesomeThings = response.data.Books.filter(function(value){
-          return value.title.toLowerCase().startsWith(newVal.toLowerCase());
+          return value.title.toLowerCase().indexOf(newVal.toLowerCase()) > -1
+          || value.Category.toLowerCase().indexOf(newVal.toLowerCase()) > -1;
         })
+
+        setCategories();
       }
       else
       {
-        getBooks();
+        setBooks();
       }
     });
 
-    function getBooks() {
+    function setBooks() {
       vm.awesomeThings = response.data.Books;
+      setCategories(vm.awesomeThings);
+    }
+
+    function setCategories(books){
+      vm.categories = _.keys(_.groupBy(vm.awesomeThings, 'Category'));
+
+      console.log(vm.categories);
     }
   }
 })();
