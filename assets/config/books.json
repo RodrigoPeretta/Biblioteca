@@ -1,0 +1,501 @@
+{
+  "Books": [{
+    "title": "Desenvolvimento de jogos para android",
+    "url": "",
+    "description": "Explore sua imaginação com o framework cocos2d",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1459959470/Livros/Dev_jogos.jpg",
+    "Category":"MOBILE",
+    "tags": ["Android", "Jogos", "Cocos2d"]
+  }, {
+    "title": "Google Android",
+    "url": "",
+    "description": "Crie aplicações para celulares",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1459959932/Livros/android-featured_large.png",
+    "Category":"MOBILE",
+    "tags": ["Android", "Mobile"]
+  }, {
+    "title": "Transformação e Adoção Agil",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460497396/Capa_minilivro_250x355_f2n2sz.jpg",
+    "Category":"AGILE",
+    "tags": ["Agile"]
+  }, {
+    "title": "Agile desenvolvimento de software.",
+    "url": "",
+    "description": "Entregas frequentes e foco no valor de negócio",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045867/Livros/agile-featured_large.png",
+    "Category":"AGILE",
+    "tags": ["Agile","Entrega"]
+  }, {
+    "title": "Scrum Gestão ágil para projetos de sucesso",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045863/Livros/scrum-featured_large.png",
+    "Category":"AGILE",
+    "tags": ["Scrum", "Ágil", "Gestão"]
+  }, {
+    "title": "Extreme programming",
+    "url": "",
+    "description": "Práticas para o dia a dia no desenvolvimento ágil",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/MWv_cGrvQEiSB16qd6Qrr7_29jPyP0tUVVlSsQ2kAIQ_size_1024x768_size_mode_2_large.jpg",
+    "Category":"AGILE",
+    "tags": ["XP", "Ágil"]
+  }, {
+    "title": "Scrum 360",
+    "url": "",
+    "description": "Um guia completo e prático de agilidade",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045875/Livros/scrum360-featured_large.png",
+    "Category":"AGILE",
+    "tags": ["Scrum", "Ágil"]
+  }, {
+    "title": "SCRUM",
+    "url": "",
+    "description": "Study SBOK - Guide 2013",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045867/Livros/coverfront.jpg",
+    "Category":"AGILE",
+    "tags": ["Scrum", "Ágil"]
+  },{
+    "title": "Armazenando dados com Redis",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460497644/redis-featured_large_kbmahz.png",
+    "Category":"BANCO DE DADOS",
+    "tags": ["Redis", "Armazenando"]
+  },{
+    "title": "MongoDB",
+    "url": "",
+    "description": "Construa novas aplicações nom novas tecnologias",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/mongodb-featured_large.png",
+    "Category":"BANCO DE DADOS",
+    "tags": ["Mongo", "Armazenando"]
+  },{
+    "title": "SQL",
+    "url": "",
+    "description": "Uma abordagem para banco de dados Oracle",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045867/Livros/Amazon-SQL-Oracle_large.jpg",
+    "Category":"BANCO DE DADOS",
+    "tags": ["Oracle", "Armazenando", "Sql"]
+  },{
+    "title": "Guia do mestre programador",
+    "url": "",
+    "description": "Pensando como pirata evoluindo como jedi",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045870/Livros/F_rZcE1nCFDaz1yv2rMbvp0sp7ehJKYYt3i1s1zp9Jc_size_mode_3_size_1024x768_large.jpg",
+    "Category":"CAPACITAÇÃO PROFISSIONAL",
+    "tags": ["Programador", "Carreira"]
+  },{
+    "title": "O programador apaixonado",
+    "url": "",
+    "description": "Contruindo uma carreira notavem em desenvolvimento",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045875/Livros/programador-apaixonado-featured_large.png",
+    "Category":"CAPACITAÇÃO PROFISSIONAL",
+    "tags": ["Programador","Carreira"]
+  },{
+    "title": "Orientação a Objetos e SOLID para Ninjas",
+    "url": "",
+    "description": "Projetando classes",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/oo-solid-sumario-featured_large.png",
+    "Category":"PARADIGMAS",
+    "tags": ["OOP", "Orientação a Objetos", "Solid"]
+  },{
+    "title": "REST",
+    "url": "",
+    "description": "Construa APIS inteligentes de maneira simples",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045874/Livros/rest-featured_large.png",
+    "Category":"WEB",
+    "tags": ["Rest", "API"]
+  },{
+    "title": "SOA Aplicado",
+    "url": "",
+    "description": "Integrando com WebServices",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045864/Livros/soa-webservices-featured_large.png",
+    "Category":"PARADIGMAS",
+    "tags": ["SOA", "Arquitetura"]
+  },{
+    "title": "Thoughtworks",
+    "url": "",
+    "description": "Antologia Brasil Histórias de aprendizado e inovação",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045867/Livros/thoughtworks-antologia-featured_large.png",
+    "Category":"CAPACITAÇÃO PROFISSIONAL",
+    "tags": ["Carreira"]
+  },{
+    "title": "DevOps",
+    "url": "",
+    "description": "Caixa de ferramentas devops - um guia para construção e arquitetura de sistemas modernos",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460497736/oy0mvtYotVNh0eUSt2CAC3Kf7j_qtMIxtd31jNUYP08_size_1024x768_size_mode_2_large_defjeu.jpg",
+    "Category":"FERRAMENTAS",
+    "tags": ["DevOps", "Arquitetura"]
+  },{
+    "title": "DevOps na pratica",
+    "url": "",
+    "description": "Entrega de software confiável e automatizada",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045869/Livros/devops-featured.png",
+    "Category":"FERRAMENTAS",
+    "tags": ["DevOps", "Arquitetura", "Entrega", "Automatizado"]
+  },{
+    "title": "Containers com docker do desenvolvimento a produção",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045869/Livros/docker-featured_large.png",
+    "Category":"FERRAMENTAS",
+    "tags": ["Containers", "Docker"]
+  },{
+    "title": "Controlando versoes com git e github",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045870/Livros/git-github-featured_large.png",
+    "Category":"FERRAMENTAS",
+    "tags": ["Git", "GitHub", "Versões"]
+  },{
+    "title": "Mastering Sublime",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045863/Livros/51nriaxAkvL._SX258_BO1_204_203_200_.jpg",
+    "Category":"FERRAMENTAS",
+    "tags": ["IDE", "Sublime"]
+  },{
+    "title": "Desenvolvimento de jogos com HTML 5 com Canvas e javascript",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045871/Livros/jogos-html-javascript-featured_large.png",
+    "Category":"WEB",
+    "tags": ["Jogos", "HTML5", "Javascript", "Canvas"]
+  },{
+    "title": "HTML5 e CSS3",
+    "url": "",
+    "description": "Dominie a Web do futuro",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045871/Livros/html-css-featured_large.png",
+    "Category":"WEB",
+    "tags": ["HTML5", "CSS3"]
+  },{
+    "title": "Jogos em HTML 5",
+    "url": "",
+    "description": "Explore o mobile e fisica",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045872/Livros/jogos-mobile-cordova-featured_large.png",
+    "Category":"WEB",
+    "tags": ["HTML5", "Jogos", "Fisica"]
+  },{
+    "title": "Web Design responsivo",
+    "url": "",
+    "description": "páginas adaptáveis para todos os dispositivos",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045864/Livros/1029613-_0.jpg",
+    "Category":"WEB",
+    "tags": ["HTML5", "Design", "Responsivo"]
+  },{
+    "title": "Java 7 SE",
+    "url": "",
+    "description": "O guia para sua certificação Oracle certified assiciate",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045870/Livros/download.jpg",
+    "Category":"JAVA",
+    "tags": ["Java 7", "Certificação"]
+  },{
+    "title": "Java 8",
+    "url": "",
+    "description": "Lambdas, Streams e os novos recursos da linguagem",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045871/Livros/java8-featured_large.png",
+    "Category":"JAVA",
+    "tags": ["Java 8", "Lambda"]
+  },{
+    "title": "Introdução a arquitetura e design de software",
+    "url": "",
+    "description": "Uma visão sobre a plataforma java",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045872/Livros/capa_Arquitetura-e-Design-de-Software.jpg",
+    "Category":"JAVA",
+    "tags": ["Plataforma", "Arquitetura"]
+  },{
+    "title": "SPRING",
+    "url": "",
+    "description": "MVC Domine o principal framework WEB JAVA",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045865/Livros/spring-mvc-featured_large.png",
+    "Category":"JAVA",
+    "tags": ["MVC", "WEB"]
+  },{
+    "title": "Test Driven Development",
+    "url": "",
+    "description": "Teste e design no mundo real",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045866/Livros/tdd-featured_large.png",
+    "Category":"TESTE",
+    "tags": ["TDD","Java"]
+  },{
+    "title": "JavaEE 7",
+    "url": "",
+    "description": "JSF PrimeFaces e CDI",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045865/Livros/algaworks-ebookjavaee7comjsfprimefacesecdi20131224-1-638.jpg",
+    "Category":"JAVA",
+    "tags": ["JSF", "CDI"]
+  },{
+    "title": "Aplicações web real time com node",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/nodejs-featured_large.png",
+    "Category":"NODEJS",
+    "tags": ["Real Time", "Node"]
+  },{
+    "title": "Construindo APIs REST com NodeJS",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045867/Livros/zGb75MbYhQ0_Rc954-y3OZOq9O169BSqY0WslUDTmBk_size_mode_3_size_1024x768_large.jpg",
+    "Category":"NODEJS",
+    "tags": ["Rest", "API", "Node"]
+  },{
+    "title": "Canivete suico do desenvolvedor node",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045872/Livros/KKrmIrJLg4wrrI3mGQL_VlVUenEaSaNVRscaD6HlQvU_size_mode_2_size_1024x768_large.jpg",
+    "Category":"NODEJS",
+    "tags": ["node"]
+  },{
+    "title": "MEAN",
+    "url": "",
+    "description": "Javascript para aplicações web com MongoDb Express AngularJs e Node",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/mean-featured_large.png",
+    "Category":"NODEJS",
+    "tags": ["MEAN", "Javascript", "MongoDb", "Express", "Angular", "Node"]
+  },{
+    "title": "Meteor",
+    "url": "",
+    "description": "Criando aplicações Web real time com JavaScript",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045873/Livros/meteor-featured_large.png",
+    "Category":"NODEJS",
+    "tags": ["Meteor", "Javascript", "Real Time"]
+  },{
+    "title": "Desenvolvimento web com php e myssql",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045874/Livros/phpemysql-desenvolvimentoweb.jpg",
+    "Category":"WEB",
+    "tags": ["PHP", "MySql"]
+  },{
+    "title": "OCaml",
+    "url": "",
+    "description": "Programação funcional na prática",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045870/Livros/eBook-OCAML_large.png",
+    "Category":"LINGUAGENS",
+    "tags": ["Funcional", "Prática"]
+  },{
+    "title": "Python",
+    "url": "",
+    "description": "Escreva seus primeiros programas",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045864/Livros/1041189-_0.jpg",
+    "Category":"LINGUAGENS",
+    "tags": ["Python"]
+  },{
+    "title": "C# e Visual Studio",
+    "url": "",
+    "description": "Desenvolvimento de aplicações desktop",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045869/Livros/csharp-featured_large.png",
+    "Category":".NET",
+    "tags": [".Net", "Desktop"]
+  },{
+    "title": "Programando em GO",
+    "url": "",
+    "description": "Crie aplicações com a linguagem do Google",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045870/Livros/google-go-featured_large.png",
+    "Category":"LINGUAGENS",
+    "tags": ["Go", "Google"]
+  },{
+    "title": "Ruby",
+    "url": "",
+    "description": "Aprenda a programar na linguagem mais divertida",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045874/Livros/ruby-aprenda-a-programar-na-linguagem-mais-divertida-23353-MLB20246892105_022015-F.jpg",
+    "Category":"LINGUAGENS",
+    "tags": ["Ruby"]
+  },{
+    "title": "A Web Mobile",
+    "url": "",
+    "description": "Programe para um mundo de muitos dospositivos",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045867/Livros/webmobile-featured_large.png",
+    "Category":"MOBILE",
+    "tags": ["Dispositivos"]
+  },{
+    "title": "IOS",
+    "url": "",
+    "description": "Programe para iPhone e iPad",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045872/Livros/iphone-ipad-ios-featured_large.png",
+    "Category":"MOBILE",
+    "tags": ["Apple", "Iphone", "Ipad"]
+  },{
+    "title": "SWIFT",
+    "url": "",
+    "description": "Programe para iPhone e iPad",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045865/Livros/Swift-ebook_large.png",
+    "Category":"MOBILE",
+    "tags": ["Apple", "Iphone", "Ipad"]
+  },{
+    "title": "Adaptative Code via C# Agile with design patterns and SOLID principles",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045866/Livros/ShowCover.jpg",
+    "Category":".NET",
+    "tags": ["C#", "Microsoft", "Agile", "SOLID"]
+  },{
+    "title": "Desenvolvimento web com ASP.NET MVC",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045868/Livros/aspnet-mvc-featured_large.png",
+    "Category":".NET",
+    "tags": ["Web", "ASP.NET", "MVC"]
+  },{
+    "title": "Microsoft .NET",
+    "url": "",
+    "description": "Architecting Applications for the Enterprise ( 2nd edition )",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460497492/microsoft-net-architecting-applications-for-the-enterprise-dino-esposito-0735685355_200x200-PU3ffd5b17_1_bxn1r3.jpg",
+    "Category":".NET",
+    "tags": ["Microsoft", "Arquitetura"]
+  },{
+    "title": "Writing High Performance .NET Code",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045868/Livros/Cover-Tall-2000x2828-212x300.jpg",
+    "Category":".NET",
+    "tags": ["Microsoft", "Alta Performance"]
+  },{
+    "title": "Busines Model Canvas",
+    "url": "",
+    "description": "O Analista de modelos de negócio",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045867/Livros/Capa-do-Analista-430x608.jpg",
+    "Category":"NEGÓCIO",
+    "tags": ["Analista", "Negócios"]
+  },{
+    "title": "Cases de Sucesso",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO",
+    "tags": ["Cases"]
+  },{
+    "title": "Direto ao ponto",
+    "url": "",
+    "description": "Criando produtos de forma enxuta",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045869/Livros/direto-ao-ponto-featured_large.png",
+    "Category":"NEGÓCIO",
+    "tags": ["Produto", "Enxuta"]
+  },{
+    "title": "Tour da Bel",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO",
+    "tags": ["Bel", "Pesce"]
+  },{
+    "title": "Guia da Startups",
+    "url": "",
+    "description": "Como startups e empresas estabelecidas podem criar produtos web rentáveis",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045864/Livros/startup-guia-featured_large.png",
+    "Category":"NEGÓCIO",
+    "tags": ["Startup", "Produtos"]
+  },{
+    "title": "Gestão de projetos 2.0",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO",
+    "tags": ["Gestão", "Produtos"]
+  },{
+    "title": "Gestão estratégica por KPIS",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO",
+    "tags": ["KPIS"]
+  },{
+    "title": "Gestão de produtos",
+    "url": "",
+    "description": "Como aumentar as chances de sucesso do seu software",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045866/Livros/Amazon-Gestao-Produtos_large.jpg",
+    "Category":"NEGÓCIO",
+    "tags": ["Sucesso", "Software"]
+  },{
+    "title": "Histórias de usuário 3.0",
+    "url": "",
+    "description": "",
+    "logo": "",
+    "Category":"NEGÓCIO",
+    "tags": ["Usuários"]
+  },{
+    "title": "Kanban 10 Passos",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045872/Livros/Kanban10PassosCapa.jpg",
+    "Category":"NEGÓCIO",
+    "tags": ["Kanban"]
+  },{
+    "title": "SEO - Prático",
+    "url": "",
+    "description": "Seu site na primeira página das buscas",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045864/Livros/seo-featured_large.png",
+    "Category":"NEGÓCIO",
+    "tags": ["SEO", "Buscas"]
+  },{
+    "title": "Um guia do conhecimento em Gerenciamento de projetos",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045871/Livros/download_1.png",
+    "Category":"NEGÓCIO",
+    "tags": ["Projetos", "Gerenciamento"]
+  },{
+    "title": "Microsoft Kinect",
+    "url": "",
+    "description": "Crie aplicações interativas",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045863/Livros/1029604-_0.jpg",
+    "Category":"OUTROS",
+    "tags": ["Microsoft", "Kinect", "Xbox"]
+  },{
+    "title": "Testes automatizados de software",
+    "url": "",
+    "description": "Um guia prático",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045867/Livros/testes-de-software-featured_large.png",
+    "Category":"TESTE",
+    "tags": ["Automatizado"]
+  },{
+    "title": "DevOps for dummies",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045869/Livros/DevOps_For_Dummies_2nd_ed_cover.jpg",
+    "Category":"FERRAMENTAS",
+    "tags": ["DevOps", "Dummies"]
+  },{
+    "title": "Introdução e boas práticas de UX Design",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045866/Livros/ux-user-experience-featured_large.png",
+    "Category":"OUTROS",
+    "tags": ["Interface", "Ux", "Design"]
+  },{
+    "title": "Somos todos canalhas",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,h_198,w_140/v1460045866/Livros/87407815.jpg",
+    "Category":"OUTROS",
+    "tags": ["Filosofia", "Clovis"]
+  },{
+    "title": "Cucumber e rspec",
+    "url": "",
+    "description": "Construa aplicações Ruby e rails com testes e especificações",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045869/Livros/cucumber-rspec-tdd-bdd-featured_large.png",
+    "Category":"RUBY",
+    "tags": ["Ruby", "Rails", "testes"]
+  },{
+    "title": "RSpec",
+    "url": "",
+    "description": "Crie especificações executáveis em Ruby",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045874/Livros/rspec-featured_large.png",
+    "Category":"RUBY",
+    "tags": ["RSpec"]
+  },{
+    "title": "Ruby on Rails",
+    "url": "",
+    "description": "Coloque sua aplicação web nos trilhos",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045874/Livros/rails-280_large.png",
+    "Category":"RUBY",
+    "tags": ["Rails", "Web"]
+  },{
+    "title": "Introdução a computação da lógica aos jogos com Ruby",
+    "url": "",
+    "description": "",
+    "logo": "http://res.cloudinary.com/dd322fp1u/image/upload/c_scale,w_140/v1460045871/Livros/introducao-ruby-featured_9c39896f-ea67-4389-9f96-43a7a4de2b64_large.png",
+    "Category":"RUBY",
+    "tags": ["Jogo"]
+  }
+  ]
+}
