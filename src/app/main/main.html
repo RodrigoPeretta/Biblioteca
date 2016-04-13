@@ -27,6 +27,13 @@
             <h3 class="md-title">{{ awesomeThing.title }}</h3>
             <p>{{ awesomeThing.description }}</p>
           </md-card-content>
+          <md-chips>
+          </md-chips>
+          <md-chips ng-model="awesomeThing.tags" readonly="true">
+            <md-chip-template>
+                {{$chip}}
+            </md-chip-template>
+          </md-chips> 
           <div class="md-action-buttons">
             <md-button ng-href="{{ awesomeThing.url }}">Download</md-button>
           </div>

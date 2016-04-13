@@ -18,7 +18,10 @@
       if(newVal != undefined && newVal != ''){
         vm.awesomeThings = response.data.Books.filter(function(value){
           return value.title.toLowerCase().indexOf(newVal.toLowerCase()) > -1
-          || value.Category.toLowerCase().indexOf(newVal.toLowerCase()) > -1;
+          || value.Category.toLowerCase().indexOf(newVal.toLowerCase()) > -1
+          || (value.tags.filter(function(tag){
+                return tag.toLowerCase().indexOf(newVal.toLowerCase()) > -1 ? true : false;
+            }))[0];
         })
 
         setCategories();
